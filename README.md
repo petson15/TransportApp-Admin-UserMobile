@@ -1,4 +1,4 @@
-# TransportApp-Admin-UserMobile
+# TransportApp-UserMobile
 # Smart Public Transport Reservation System (User App)
 
 This project is a **User Application** for a smart public transport reservation system, designed to streamline public transit bookings and enhance commuter convenience. Developed for seamless ride scheduling, the app allows users to reserve seats, make payments, and access real-time transit information—all from the convenience of their mobile device.
